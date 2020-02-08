@@ -1,0 +1,13 @@
+*.o
+# python
+*.pyc
+__pycache__
+
+# vscode setting
+.vscode
+
+# project
+sdkconfig
+sdkconfig.old
+build
+
